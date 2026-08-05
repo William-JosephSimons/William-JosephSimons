@@ -40,8 +40,8 @@ Individual MEAN-stack application using **MongoDB, Express, Angular, and Node.js
 
 - Bachelor of Computer Science requirements expected to be completed in **November 2026**
 - Current GPA: **6.75/7.00**
-- Griffith Awards for Academic Excellence — **2024 and 2025**
-- Golden Key International Honour Society — **top 15% academic achievement, 2025**
+- Griffith Awards for Academic Excellence - **2024 and 2025**
+- Golden Key International Honour Society - **top 15% academic achievement, 2025**
 
 ## Contact
 
