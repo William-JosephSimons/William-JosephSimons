@@ -1,8 +1,6 @@
 # William Simons
 
-Final-trimester Computer Science student at Griffith University, focused on graduate software engineering, backend, and full-stack development.
-
-I enjoy learning unfamiliar technologies deeply, building practical software, and making systems more reliable through thoughtful testing. I am completing my Bachelor of Computer Science requirements in November 2026 with a current GPA of **6.75/7.00**.
+Final-trimester Computer Science student at Griffith University with interests across software development, software quality, application support and practical technical problem solving. I enjoy building software, investigating why systems fail, testing behaviour systematically and learning unfamiliar technologies deeply. I am completing my Bachelor of Computer Science requirements in November 2026 with a current GPA of **6.75/7.00**.
 
 ## Featured work
 
