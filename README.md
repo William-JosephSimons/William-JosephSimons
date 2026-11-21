@@ -72,7 +72,7 @@ Individual full-stack community chat application built using the **MEAN stack: M
 
 - **Bachelor of Computer Science**, Griffith University, studies completed November 2026
 - Final GPA: **6.79/7.00**
-- Griffith Awards for Academic Excellence: **2024 and 2025**
+- Griffith Awards for Academic Excellence: **2024, 2025, and 2026**
 - Golden Key International Honour Society: **Top 15% academic achievement, 2025**
 
 ## Contact
